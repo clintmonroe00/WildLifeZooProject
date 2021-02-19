@@ -1,0 +1,3 @@
+000001;Gary;Mammal;Bat;0
+000002;Liz;Oviparous;Crocodile;3
+000003;Bruce;Oviparous;Pelican;9
