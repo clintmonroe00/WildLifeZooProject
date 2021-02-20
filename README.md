@@ -14,3 +14,6 @@ I found a great deal of this assignment challening. Going beyond some of the cou
 
 # What skills from this project will be particularly transferable to other projects and/or course work?
 I believe that everything I did with this project is transferable. I managed my time to the best of my ability and planned out what I wanted to accomplish within certain amounts of time. I built out methods slowly and made sure to compile and run often to reduce my time chasing bugs later. I also spent a lot of time becoming familiar with concepts beyond what was reviewed in this course that I believe will come in handy later (ie- design patterns).
+
+# How did you make this program maintainable, readable, and adaptable?
+I made this program maintainable by using the factory design pattern. I strongly believe that this would reduce the amount of new code that would need to be written any time a new type or subtype of animal would be added to the program. I aimed to keep my code readable by using whitespace properly, keeping smaller pieces aligned when possible and separating blocks with lines when appropriate. I also made it a point to review my comments to ensure that they properly expressed my thoughts or notes on each line or block of code. 
