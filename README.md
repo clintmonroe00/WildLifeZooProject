@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# CS-210 WildLife Zoo Project (Project #3)
 
 # Summarize the project and what problem it was solving.
 This was the third project for my CS-210 Programming Languages class at SNHU. The brief asked me to create a proof of concept for an RFID tracking system that would allow for the creation, viewing, and deletion of animals for tracking purposes. Additionally, it should be able to save to and load data from a .txt file.
